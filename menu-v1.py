@@ -19,3 +19,4 @@ while not software_off:
         if(valt_alternativ == n):
             print(f"You selected option {n}) {m}")
             software_off = True
+            break
